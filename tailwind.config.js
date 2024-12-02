@@ -9,6 +9,7 @@ export default {
       colors: {
         primary: "#1565D8",
         dark: {
+          light: "#5A7184",
           hard: "#0D2435",
           soft: "#183956"
         }
